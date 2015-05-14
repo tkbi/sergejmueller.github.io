@@ -5,6 +5,7 @@ U2VyZ2VqIE3DvGxsZXI
 Name:     Sergej Müller
 Location: Hamburg, Germany
 Website:  https://sergejmueller.github.io
+Twitter:  https://twitter.com/translate3d
 Google+:  https://plus.google.com/+SergejMüller
 GitHub:   https://github.com/sergejmueller
 
